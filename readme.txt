@@ -32,32 +32,3 @@ Escribe el nombre de un amigo en el campo de texto.
 Haz clic en el botón "Adicionar" para agregar el nombre a la lista.
 Realizar el Sorteo:
 
-Una vez agregados los nombres, haz clic en el botón "Sortear Amigo" para ver quién es asignado como amigo secreto.
-Capturas de Pantalla
-Nota: Asegúrate de incluir las imágenes en la carpeta screenshots del proyecto o ajusta las rutas según corresponda.
-
-Pantalla de Agregar Nombres
-
-Pantalla de Sorteo Aleatorio
-
-Video Demostrativo
-Para ver un video demostrativo de cómo se agrega un nombre y se realiza el sorteo, haz clic en el siguiente enlace:
-
-Ver Video Demo
-
-O también puedes incluir el video directamente en el repositorio en formato MP4 y referenciarlo.
-
-Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas mejorar o extender la funcionalidad de la aplicación, sigue estos pasos:
-
-Fork el repositorio.
-Crea una rama para tu nueva funcionalidad (git checkout -b feature/nueva-funcion).
-Commit tus cambios (git commit -am 'Agrega nueva funcionalidad').
-Push a la rama (git push origin feature/nueva-funcion).
-Abre un Pull Request.
-Licencia
-Este proyecto está bajo la Licencia MIT.
-
-Contacto
-Para cualquier consulta o sugerencia, puedes contactarme a través de tuemail@ejemplo.com.
-
